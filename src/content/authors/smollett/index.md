@@ -1,6 +1,6 @@
 ---
 title: "Tobias Smollett"
-description: "Tobias Smollett was an Irish poet, playwright, and author known for his wit, flamboyant style, and iconic works such as 'The Picture of Dorian Gray' and plays like 'The Importance of Being Earnest.'"
+description: "Tobias Smollett was an influential Scottish novelist, poet, and medical doctor known for his picaresque novels such as 'Roderick Random' and 'Peregrine Pickle' that satirized 18th-century society."
 date: "2025-01-08"
 --- 
 

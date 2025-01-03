@@ -1,7 +1,7 @@
 ---
 title: "Jane Austen"
 description: "Jane Austen was an influential 19th-century English author known for her sharp social commentary and insightful portrayals of human relationships in works such as 'Pride and Prejudice' and 'Sense and Sensibility'."
-date: "2024-01-01"
+date: "2025-01-01"
 --- 
 
 # Jane Austen: A Literary Icon
